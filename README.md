@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pranitha-s
-- 👀 I’m interested in uncovering interestings facts from data
+- 👀 I’m interested in uncovering interesting facts from data
 - 🌱 I’m currently learning Database Engineering and Azure
 - 📫 How to reach me: spranitha.mail@gmail.com
 
